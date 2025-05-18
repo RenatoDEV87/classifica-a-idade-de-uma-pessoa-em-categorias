@@ -1,6 +1,13 @@
 # Crie um programa que classifica a idade de uma pessoa em categorias (criança, adolescente, adulto, idoso) com base no valor fornecido utilizando uma estrutura de controle if-else.
 
-Exercício 02: Classificação de Idade
+Exercício 02: Este programa em JavaScript solicita que o usuário digite sua idade e, com base nesse valor, classifica a pessoa em uma das seguintes categorias:
+
+- **Criança** (0 a 12 anos)
+- **Adolescente** (13 a 17 anos)
+- **Adulto** (18 a 59 anos)
+- **Idoso** (60 anos ou mais)
+
+A verificação é feita por meio de estruturas de controle `if-else`.
 
 ---
 
@@ -64,7 +71,7 @@ npm install prompt-sync
 3. Salve o arquivo como `exercicio_02.js` e execute com:
 
 ```
-node exercicio_01.js
+node exercicio_02.js
 ```
 
 ---
