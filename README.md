@@ -1,7 +1,6 @@
 # Crie um programa que classifica a idade de uma pessoa em categorias (criança, adolescente, adulto, idoso) com base no valor fornecido utilizando uma estrutura de controle if-else.
 
-Exercício 02: Este exercício recebe a idade de uma pessoa digitada pelo usuário e classifica em categorias: criança, adolescente, adulto ou idoso.
-A classificação é feita utilizando uma estrutura de controle condicional `ìf-else` para verificar em qual faixa a idade se enquadra e exibir a categoria correspondente no console. 
+Exercício 02 – Classificação de Idade
 
 ---
 
