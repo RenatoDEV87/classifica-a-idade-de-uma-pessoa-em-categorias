@@ -1,13 +1,7 @@
 # Crie um programa que classifica a idade de uma pessoa em categorias (criança, adolescente, adulto, idoso) com base no valor fornecido utilizando uma estrutura de controle if-else.
 
-Exercício 02: Este programa em JavaScript solicita que o usuário digite sua idade e, com base nesse valor, classifica a pessoa em uma das seguintes categorias:
-
-- **Criança** (0 a 12 anos)
-- **Adolescente** (13 a 17 anos)
-- **Adulto** (18 a 59 anos)
-- **Idoso** (60 anos ou mais)
-
-A verificação é feita por meio de estruturas de controle `if-else`.
+Exercício 02: Este exercício recebe a idade de uma pessoa digitada pelo usuário e classifica em categorias: criança, adolescente, adulto ou idoso.
+A classificação é feita utilizando uma estrutura de controle condicional `ìf-else` para verificar em qual faixa a idade se enquadra e exibir a categoria correspondente no console. 
 
 ---
 
@@ -23,8 +17,14 @@ A verificação é feita por meio de estruturas de controle `if-else`.
 
 ## Descrição
 
-Este exercício recebe a idade de uma pessoa digitada pelo usuário e classifica em categorias: criança, adolescente, adulto ou idoso.
-A classificação é feita utilizando uma estrutura de controle condicional `ìf-else` para verificar em qual faixa a idade se enquadra e exibir a categoria correspondente no console. 
+Este programa em JavaScript solicita que o usuário digite sua idade e, com base nesse valor, classifica a pessoa em uma das seguintes categorias:
+
+- **Criança** (0 a 12 anos)
+- **Adolescente** (13 a 17 anos)
+- **Adulto** (18 a 59 anos)
+- **Idoso** (60 anos ou mais)
+
+A verificação é feita por meio de estruturas de controle `if-else`.
 
 ---
 
