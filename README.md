@@ -77,7 +77,7 @@ node exercicio_02.js
 
 ## Tecnologias Utilizadas
 
-- Linguagem: JavaScrpit
+- Linguagem: JavaScript
 - Node.Js
 
 ---
